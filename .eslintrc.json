@@ -33,6 +33,12 @@
         "extensions": [".js", ".jsx", ".ts", ".tsx"]
       }
     ],
+    "no-console": [
+      "warn",
+      {
+        "allow": ["error", "dir", "debug"]
+      }
+    ],
     "react/jsx-indent": "warn",
     "react/jsx-props-no-spreading": "off",
     "react/no-array-index-key": "warn",

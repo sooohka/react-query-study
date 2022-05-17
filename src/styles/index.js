@@ -1,5 +1,5 @@
 import cx from 'classnames'
-import styles from './index.scss'
+import styles from 'styles/index.scss'
 
 export default styles
 export { cx }
